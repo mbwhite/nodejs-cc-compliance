@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-cc-compliance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "fcc --chaincode-dir ./test-chaincodes"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fabric-chaincode-compliance": "file:fabric-chaincode-compliance-1.0.0.tgz"
+  }
+}

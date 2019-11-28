@@ -1,0 +1,8 @@
+{
+    "chaincodes": [
+        {
+            "name": "crud",
+            "relativedir": "crud"
+        }
+    ]
+}
